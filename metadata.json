@@ -1,0 +1,6 @@
+{
+  "name": "Indie Classroom - Modern Online Music Academy",
+  "description": "High-fidelity online music academy featuring 1-on-1 mentorship with touring indie musicians for guitar, piano, and violin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
